@@ -46,6 +46,7 @@ public class Hotel {
 
     // Some basic Getters
 
+    public String getId() { return id; }
 
     public String getName() {
         return name;
